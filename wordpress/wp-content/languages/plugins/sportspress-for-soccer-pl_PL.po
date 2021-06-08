@@ -1,0 +1,470 @@
+# Translation of Plugins - SportsPress for Football (Soccer) - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - SportsPress for Football (Soccer) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-09 11:11:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - SportsPress for Football (Soccer) - Stable (latest release)\n"
+
+#: sportspress-for-soccer.php:210 sportspress-for-soccer.php:244
+#: sportspress-for-soccer.php:246
+msgid "OG"
+msgstr "S"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr "Włącz %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr "Aktualizuj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "Brak wtyczek do instalacji, aktualizacji lub włączenia."
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Więcej niż jedna wymagana lub polecana wtyczka do zainstalowania, aktualizacji lub włączenia."
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "Aktualizowanie wtyczki: %s"
+
+#: sportspress-for-soccer.php:179
+msgid "Edit Ground"
+msgstr "Edycja miejsca spotkania"
+
+#: sportspress-for-soccer.php:176
+msgid "Ground"
+msgstr "Miejsce spotkania"
+
+#: sportspress-for-soccer.php:173
+msgid "Grounds"
+msgstr "Miejsca spotkań"
+
+#. Author of the plugin/theme
+msgid "ThemeBoy"
+msgstr "ThemeBoy"
+
+#. Description of the plugin/theme
+msgid "A suite of football (soccer) features for SportsPress."
+msgstr "Zestaw funkcji do obsługi piłki nożnej dla SportsPressa."
+
+#. #-#-#-#-#  tmp-sportspress-for-soccer.pot (SportsPress for Football (Soccer)
+#. 0.9.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-sportspress-for-soccer.pot (SportsPress for Football (Soccer)
+#. 0.9.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://themeboy.com/"
+msgstr "http://themeboy.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "SportsPress for Football (Soccer)"
+msgstr "SportsPress dla piłki nożnej"
+
+#: sportspress-for-soccer.php:197
+msgid "View all clubs"
+msgstr "Pokaż wszystkie drużyny"
+
+#: sportspress-for-soccer.php:194
+msgid "View Club"
+msgstr "Pokaż drużynę"
+
+#: sportspress-for-soccer.php:191
+msgid "Edit Club"
+msgstr "Edytuj drużynę"
+
+#: sportspress-for-soccer.php:188
+msgid "Add New Club"
+msgstr "Dodaj nową drużynę"
+
+#: sportspress-for-soccer.php:185
+msgid "Club"
+msgstr "Drużyna"
+
+#: sportspress-for-soccer.php:182
+msgid "Clubs"
+msgstr "Drużyny"
+
+#: sportspress-for-soccer.php:170
+msgid "View all matches"
+msgstr "Zobacz wszystkie mecze"
+
+#: sportspress-for-soccer.php:167
+msgid "View Match"
+msgstr "Zobacz mecz"
+
+#: sportspress-for-soccer.php:164
+msgid "Edit Match"
+msgstr "Edycja meczu"
+
+#: sportspress-for-soccer.php:161
+msgid "Add New Match"
+msgstr "Dodaj nowy mecz"
+
+#: sportspress-for-soccer.php:158
+msgid "Match"
+msgstr "Mecz"
+
+#: sportspress-for-soccer.php:155
+msgid "Matches"
+msgstr "Mecze"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr "Wtyczka %1$s została zainstalowana pomyślnie."
+
+#: includes/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczął się proces instalacji. To może chwilę zająć, proszę czekać."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywacja wtyczki %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone."
+
+#: includes/class-tgm-plugin-activation.php:3602
+#: includes/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: includes/class-tgm-plugin-activation.php:3602
+#: includes/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr "Wtyczka %1$s została zainstalowana i włączona pomyślnie."
+
+#: includes/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczął się proces instalacji oraz aktywacji. To może chwilę zająć, proszę czekać."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr "Nie powiodła się instalacja %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Błąd podczas instalowania %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizacja wtyczki %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+#: includes/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr "Aktualnie nie ma wtyczek do włączenia."
+
+#: includes/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Żadna wtyczka nie została zaznaczona do włączenia. Nic nie zrobiono."
+
+#: includes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "Aktualnie nie ma wtyczek do aktualizacji."
+
+#: includes/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "Aktualnie nie ma wtyczek do zainstalowania."
+
+#: includes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Żadna wtyczka nie została zaznaczona do aktualizacji. Nic nie zrobiono."
+
+#: includes/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Żadna wtyczka nie została zaznaczona zainstalowania. Nic nie zrobiono."
+
+#: includes/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Włącz"
+
+#: includes/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Zaktualizuj"
+
+#: includes/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: includes/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr "Informacja dotycząca aktualizacji od autora wtyczki:"
+
+#: includes/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Wersja"
+
+#: includes/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Typ"
+
+#: includes/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "Źródło"
+
+#: includes/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: includes/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: includes/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "Minimalna wymagana wersja:"
+
+#: includes/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: includes/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznana"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Do włączenia <span class=\"count\">(%s)</span>"
+msgstr[1] "Do włączenia <span class=\"count\">(%s)</span>"
+msgstr[2] "Do włączenia <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępnych aktualizacji <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Do zainstalowania <span class=\"count\">(%s)</span>"
+msgstr[1] "Do zainstalowania <span class=\"count\">(%s)</span>"
+msgstr[2] "Do zainstalowania <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "Aktualizacja rekomendowana"
+
+#: includes/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "Wymaga aktualizacji"
+
+#: includes/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja nie jest dostępna"
+
+#: includes/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Włączona"
+
+#: includes/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "Zainstalowana, ale nie włączona"
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Nie zainstalowana"
+
+#: includes/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "Dostarczona z motywem"
+
+#: includes/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: includes/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPressa"
+
+#: includes/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "Polecana"
+
+#: includes/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Wymagana"
+
+#: includes/class-tgm-plugin-activation.php:1214
+#: includes/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: includes/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Zdalna paczka zawiera więcej niż jeden plik, ale nie są one umieszczone w jednym folderze."
+
+#: includes/class-tgm-plugin-activation.php:1027
+#: includes/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Skontaktuj się z dostawcą wtyczki i spytaj go o rozszerzenie zgodne z wytycznymi WordPressa."
+
+#: includes/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Zdalna paczka nie zawiera folderu z nazwą wtyczki, a zmiana nazwy nie zadziałała."
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:920
+#: includes/class-tgm-plugin-activation.php:2626
+#: includes/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "Wróć na pulpit administratora"
+
+#: includes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Zamiast tego ustaw zmienną konfiguracyjną parent_slug."
+
+#: includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Aktualizacja wymagana"
+
+#: includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Wtyczka nie będzie kompatybilna z motywem dopóki nie zostanie zaktualizowana."
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "W celu uzyskania pomocy skontaktuj się z administratorem witryny."
+
+#: includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Usuń to powiadomienie"
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały pomyślnie zainstalowane i włączone. %1$s"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Nie włączono wtyczki. Motyw wymaga wyższej wersji %s. Zaktualizuj wtyczkę."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nie podjęto żadnej akcji. Wtyczka %1$s jest już włączona."
+
+#: includes/class-tgm-plugin-activation.php:395
+#: includes/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr "Następująca wtyczka została pomyślnie włączona:"
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "Pomyślnie włączono wtyczkę."
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Wróć do instalatora wymaganych wtyczek"
+
+#: includes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Włącz wtyczkę"
+msgstr[1] "Włącz wtyczki"
+msgstr[2] "Włącz wtyczki"
+
+#: includes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpocznij aktualizację wtyczki"
+msgstr[1] "Rozpocznij aktualizację wtyczek"
+msgstr[2] "Rozpocznij aktualizację wtyczek"
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Rozpocznij instalację wtyczek"
+msgstr[2] "Rozpocznij instalację wtyczek"
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie wtyczki: %s"
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
